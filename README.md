@@ -63,6 +63,9 @@ The model compiles with the Adam optimizer and uses sparse categorical crossentr
 📈 Evaluation and Results
 The model trained for 10 epochs using both training and validation data. Final test accuracy prints after evaluation. The classification report provides precision, recall, and F1-score. A confusion matrix visualizes using Seaborn’s heatmap. These metrics help show how well the model performs across all 10 classes.
 
+![Image](https://github.com/user-attachments/assets/1a94eb62-1007-4a27-b32f-02392bf42aca)
+![Image](https://github.com/user-attachments/assets/98c52945-0711-4c65-98c4-1d3965ead869)
+
 🖥️ How to Run
 Make sure you have Python and pip installed. Run the script:
 <pre><code>python cifar10_cnn.py</code></pre>
